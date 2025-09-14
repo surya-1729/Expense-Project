@@ -34,7 +34,7 @@ mysql_secure_installation --set-root-pass ExpenseApp@1
   ```
   Otherwise, specify host, user, and password:
   ```bash
-  mysql -h <host-address> -u root -p
+  mysql -h <host-address> -u root -p<password>
   ```
 - **Show available databases:**
   ```sql
