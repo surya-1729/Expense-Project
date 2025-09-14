@@ -59,6 +59,10 @@ Displays the multiple window connections made with frontend server,
 backend server, database server
 ![Expense Entry Table](images/Terminator_multi_window.png)
 
+#### How AWS - 3 tier looks
+Displays the 3 tier architecture in aws --- 
+frontend server, backend server, database server
+![Expense Entry Table](images/aws.png)
 
 ***
 
