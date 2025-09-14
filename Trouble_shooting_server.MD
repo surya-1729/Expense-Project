@@ -44,3 +44,11 @@ nslookup <your-domain>
 - Confirms that the domain resolves correctly to the expected IP address.
 - Helps identify DNS misconfigurations, stale records, or propagation issues.
 
+### 4. Trouble shoot from logs
+Run:
+
+```bash
+tail -f /var/log/messages
+```
+
+- This shows the last 10 entries in the log messages
