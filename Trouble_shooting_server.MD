@@ -33,3 +33,14 @@ ps -ef | grep <process-name>
 - Confirms the process is active and shows the parent process or launch user.  
 - If not found, the service may be **down** or **failed to start**.  
 
+###  3. Verify Domain Resolution (DNS Check)
+Run:
+
+```bash
+nslookup <your-domain>
+```
+
+- Replace <your-domain> with the domain pointing to your AWS server (e.g., example.com).
+- Confirms that the domain resolves correctly to the expected IP address.
+- Helps identify DNS misconfigurations, stale records, or propagation issues.
+

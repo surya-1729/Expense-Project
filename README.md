@@ -54,6 +54,11 @@ Shows how users can add or view expense records:
 Displays the Expense App’s introductory screen:
 ![Expense Entry Table](images/main_page.png)
 
+#### Web Application — Multi window in Terminator linux
+Displays the multiple window connections made with frontend server,
+backend server, database server
+![Expense Entry Table](images/Terminator_multi_window.png)
+
 
 ***
 
