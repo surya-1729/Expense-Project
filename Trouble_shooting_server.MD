@@ -52,3 +52,19 @@ tail -f /var/log/messages
 ```
 
 - This shows the last 10 entries in the log messages
+
+### 5. Ping the server
+
+```bash
+ping < IP address >
+```
+
+- This pings the server if it is awake or not
+
+### 6. Allows a user to remotely access and control another computer over the Internet or local area network (LAN)
+
+```bash
+telnet < IP address >  < Port >
+```
+
+- This calls the port of the server
